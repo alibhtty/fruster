@@ -14,32 +14,37 @@
     background-color: #111;
     /* background-color: rgb(31, 31, 31); */
   }
+
+  h1{
+    font-family: ubuntu-reg;
+    font-size: 24px;
+    text-align: center;
+    color: #eee;
+    padding-top: 50vh;
+    opacity: 0%;
+    transition: 0s ease-out;
+  }
   
   button {
     position: absolute;
+    font-family: ubuntu-reg;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #ccc;
     height: 6.5rem;
     width: 6.5rem;
-    font-size: 1rem;
+    font-size: .9rem;
     border-radius: 50%;
     border: none;
     box-shadow: 2px 1px 5px black;
     /* background-color: white; */
   }
 
-
-  /* STARS */
-  /* * {
-    margin: 0;
-    padding: 0;
-  } */
-  
+  /* STARS */ 
   canvas {
     height: auto;
-    background: radial-gradient(ellipse at bottom, #3c8cdd 0%, #161927 100%);  /* #0c1116 */
+    background: radial-gradient(ellipse at bottom, #3d6892 0%, #0e1638 100%);  /* #0c1116 */
     position: absolute;
     left: 0;
     top: 0;
@@ -49,4 +54,39 @@
   body {
     overflow: hidden;
   }
+
+
+  .footer{
+    position: fixed;
+    bottom: .8rem;
+    right: 1rem;
+  }
+
+  .footer__copy{
+    font-family: ubuntu-reg;
+    font-size: 12px;
+    color: #eee;
+  }
+  .footer__copy a{
+    color: #6fff00;
+    text-decoration: none;
+  }
   
+  @media screen and (max-width:576px) {
+    canvas {
+      opacity: 0%;
+    }
+    button {
+      opacity: 0%;
+    }
+    body {
+      background-color: #111;
+    }
+    .footer__copy {
+      font-size: 9px;
+    }
+    h1{
+      opacity: 100%;
+      transition: 1s ease-in;
+    }
+  }

@@ -1,4 +1,4 @@
-const button = document.getElementById("runaway-btn");
+const button = document.getElementById("fruster-4b");
 
 const animateMove = (element, prop, pixels) =>
 anime({
