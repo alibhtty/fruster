@@ -1,0 +1,52 @@
+@font-face {
+  font-family: ubuntu-reg;
+  src: url(../assets/fonts/Ubuntu-Bold.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+  }
+  
+  body {
+    background-color: #111;
+    /* background-color: rgb(31, 31, 31); */
+  }
+  
+  button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ccc;
+    height: 6.5rem;
+    width: 6.5rem;
+    font-size: 1rem;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 2px 1px 5px black;
+    /* background-color: white; */
+  }
+
+
+  /* STARS */
+  /* * {
+    margin: 0;
+    padding: 0;
+  } */
+  
+  canvas {
+    height: auto;
+    background: radial-gradient(ellipse at bottom, #3c8cdd 0%, #161927 100%);  /* #0c1116 */
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+  }
+  
+  body {
+    overflow: hidden;
+  }
+  
