@@ -1,3 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.994" height="32.994" viewBox="0 0 180 180">
-  <image id="Grupo_1" data-name="Grupo 1" width="180" height="180" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAADw0lEQVRYhc1YyUsbURz+jEvclxiqCCqtJzdQvLj24qWKCEIL0pMnb9ab/QtEqAdBb14FA0pvhQrFFFRUvNiAB4OIuFTcMmImamI0U74fznQS43aw0w8ez3nL733v+y0zJkFRFNwiG0AfgA8A3uDlsA/gG4AxANs8RSdRBuAngOIXPDwWFwDeA/hOErkAvABe/UMCZlTYAHyykADxhSQ+WkiAaCKJ1xaTsJNE2GISEZKIWExCs1lMQJD02AJN06R3OBxR44FAAKFQCImJicjNzX3UxtnZGSKRCBISEp5Hgpu5KS8vD7u7u9jf35fx5ORklJWVSc/m8XgQDAbj2uB8UVERCgsL5fnk5ESIR0FRFL+iKFps8/l80hNut1tzOByUxGgTExMyNz8/HzUerzmdTq2vr08LBAJaOBzWjo+Pzef5H4wJKrC6uorW1laY3jECXZWdnZ2ocZvNJuqxJSUlGbcfGxtDZ2enzKenp0fviXc4fccY2NjYQEtLi7iloKBAyOjQDZkNNjQ0SJycnp7i8PBQ+qOjI1RWVsq82+3G8vLyHRJ3YoIE8vPzcXBwgMbGRpyfn8v47OwsVlZWpL8PaWlpcvucnBxjRWZmpsSFWalYRJG4ubmB0+mUg5ubm0VGYnR0VG4zPj5+LwFiaWkJ5eXlchGqx8P39vbg9/tlfmBgAPX19ZIpcZXgpqysLCFQV1eHzc1NZGRkYHp6Gm1tbbImOzvb2Ej3wJTCxOXlJdbX1+8lubW1JVlEcnTbHRKcsNvt6O7uhtfrlTGSKSkpwczMjMyvra0ZG+fm5lBVVYWUlBRjrLa2FpOTk7i4uEA4HJZUpM2hoSG4XC65UGlpKYaHh3F1dfX3AnqKhkIhSbnH0s3c7Ha75nK5jLH29nYtHhYWFow11dXVssLv9xspaihBeRg0/f39WFxclBSjbxkn/JtKUE5GO1FcXIyuri6kpqYaSmxvb0vg0i3X19eyhzYGBweNNbpradeArgSLE9tD6OnpMW40MjIiK6empp6sXFNTk6aqqhYMBqOKlaEEb0tvMJL1ImMGc7ujo0PUoJ/1+lFTUyNFiBHPZypgBu1WVFRIfPX29spzbOnmNybzJ+vekL6FXj/M8Pl8kjHmOvAQ6HJVVWPfHeqTSehqUaXYG9NovCKkg2vNqRwD9dFXuRk0xNSLBYMsKtCeif/io4Yk7n5lWEDiaVH1ckgkCZ+1HHBDEl8tJvGLKVoE4LeFJN7abv9Vf2cRAf4UMW/+faIGwGcAjfy8fMGDVQAeACMAfgDAH4n+VojU/pBsAAAAAElFTkSuQmCC"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.14, written by Peter Selinger 2001-2017
+</metadata>
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1555 4955 l1 -165 -278 0 -278 0 0 -168 0 -168 -165 1 c-142 1 -165
+-1 -166 -15 -1 -8 -2 -82 -3 -165 l-1 -150 -167 -3 -168 -2 0 -278 0 -278
+-165 1 -165 0 0 -1002 c0 -795 3 -1003 13 -1004 6 0 81 -1 165 -1 l152 -1 0
+-278 0 -279 168 0 169 0 -1 -165 c-1 -102 3 -166 9 -168 6 -1 81 -2 168 -2
+l157 1 0 -168 0 -168 278 0 279 0 -1 -162 0 -163 1004 0 1005 0 -1 162 -1 163
+278 0 279 0 2 167 3 168 160 0 c146 0 160 2 165 18 3 10 5 85 4 168 l0 149
+168 0 c129 0 168 3 167 13 -1 6 -1 132 0 278 l1 266 163 -1 162 0 0 1005 0
+1004 -162 0 -163 -1 0 278 0 278 -167 2 -168 3 -1 150 c-1 83 -2 157 -3 165
+-1 13 -25 15 -163 15 l-163 0 -3 168 -2 167 -278 0 -278 0 1 165 0 165 -1005
+0 -1006 0 1 -165z"/>
+</g>
 </svg>

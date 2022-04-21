@@ -71,9 +71,19 @@
     color: #6fff00;
     text-decoration: none;
   }
+
+  .img-sad{
+    opacity: 70%;
+    padding-top: 16.3vh;
+  }
   
   
   @media screen and (max-width: 992px) {
+    .img-sad{
+      opacity: 70%;
+      /* padding-top: 30rem; */
+      padding-top: 35vh;
+    }
     canvas {
       width: 0;
       opacity: 0%;
